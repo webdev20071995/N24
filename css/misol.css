@@ -113,6 +113,7 @@ img{
     margin-right: 25px;
     background-color: #dce6ff;
 }
+
 .lang-toggle-link {
     font-size: 13px;
     width: 30px;
@@ -123,6 +124,7 @@ img{
     text-decoration: none;
     text-align: center;
 }
+
 .lang-toggle-link-active {
     background-color: #fff;
     color: #000;
